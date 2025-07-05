@@ -1,6 +1,6 @@
 # Resume
 
-#Blessing Bassey
+**Blessing Bassey**
 
 **Email:** bbassey816@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/blessing-bassey-457244229
