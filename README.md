@@ -17,14 +17,14 @@ A resourceful and detail-oriented graduate of Economics with certifications in I
 
 
 ## 💼 Experience
-**Account Officer| True Value Hotel**          **June 2020 - September 2022**
+**Account Officer| True Value Hotel**     |     **June 2020 - September 2022**
 * Maintained accurate and up-to-date financial records
 * Managed payroll
 * Prepared key financial statements, balance sheets, and cashflow reports
 * Used Microsoft Excel for financial tracking, reporting, and reconciliation
 * Assisted in both internal and external audit processes to ensure compliance
 
-**Administrative Officer | Favoured International Company Ltd**          **February 2023**
+**Administrative Officer | Favoured International Company Ltd**     |     **February 2023**
 * Oversee daily office management
 * Handle internal and external communications
 * Schedule meetings, coordinated appointments, and organize company events
@@ -42,7 +42,7 @@ A resourceful and detail-oriented graduate of Economics with certifications in I
 ------
 
 ## 📘 Projects
-**Personal Website -Laravel Admin & CMS**      **In Progress**
+**Personal Website -Laravel Admin & CMS**   |   **In Progress**
 * Laravel Developer (Self-Learning Project
 * Built using Laravel 12, Tailwind CSS and Vite
 * Integrated Filament dmin Panel to manage backend dashboard and CRUD interfaces
@@ -52,13 +52,13 @@ A resourceful and detail-oriented graduate of Economics with certifications in I
 ------
 
 ## 📚 Education & Certifications 
-**National Open University of Nigeria**      **August 2023**
+**National Open University of Nigeria**   |   **August 2023**
 Bachelor of Science in Economics
 
-**IBM Data Analytics Professional Certificate**     **April 2024**
+**IBM Data Analytics Professional Certificate**  |   **April 2024**
 IBM/Coursera
 
-**Microsoft 365 Fundamentals Specialization**    **August 2022**
+**Microsoft 365 Fundamentals Specialization**  |  **August 2022**
 Microsoft/Coursera
 
 ------
